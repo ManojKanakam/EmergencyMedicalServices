@@ -61,6 +61,7 @@ EMS-AI-System/
 ## 📄 License
 
 This project is for academic and research purposes. Licensing and use in production environments require appropriate authorization.
+
 [Published Paper](https://eudoxuspress.com/index.php/pub/article/view/2270/1518) 
 ---
 
