@@ -61,7 +61,7 @@ EMS-AI-System/
 ## 📄 License
 
 This project is for academic and research purposes. Licensing and use in production environments require appropriate authorization.
-
+[Published Paper](https://eudoxuspress.com/index.php/pub/article/view/2270/1518) 
 ---
 
 *This intelligent, explainable system modernizes EMS by minimizing human error and improving decision-making speed, marking a significant step forward in the evolution of emergency healthcare.*
